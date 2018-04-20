@@ -2,6 +2,20 @@
 
 A contrived program to test concurrent modification of a HashMap that is statically shared between threads.
 
+## System
+
+```
+Apache Maven 3.5.3 (3383c37e1f9e9b3bc3df5050c29c8aff9f295297
+Java version: 1.8.0_172
+```
+
+## Install
+
+```sh
+$ git clone https://github.com/mtso/hello-multiverse
+$ mvn package
+```
+
 ## Note
 
 `ReentrantLock` is used for simplicity. A more performant method would
