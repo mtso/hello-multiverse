@@ -18,5 +18,5 @@ The last, optional argument is the string "safe" to run the program with locks.
 
 ## References
 
-[`java.util.concurrent.Lock`](https://docs.oracle.com/javase/7/docs/api/java/util/concurrent/locks/Lock.html)
-[`java.util.concurrent.ConcurrentMap`](https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/ConcurrentMap.html)
+- [`java.util.concurrent.Lock`](https://docs.oracle.com/javase/7/docs/api/java/util/concurrent/locks/Lock.html)
+- [`java.util.concurrent.ConcurrentMap`](https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/ConcurrentMap.html)
